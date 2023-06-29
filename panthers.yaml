@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 manager : Panth-main
+=======
+manager : Panth-branch3
+>>>>>>> branch2
 
 members : 
 - Linda
